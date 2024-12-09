@@ -1,4 +1,4 @@
-# pl-sql_packages# Sistema de Gerenciamento Acadêmico - PL/SQL
+# Sistema de Gerenciamento Acadêmico - PL/SQL
 
 Este projeto contém pacotes PL/SQL para gerenciar alunos, disciplinas e professores em um sistema acadêmico, utilizando o Oracle Database.
 
